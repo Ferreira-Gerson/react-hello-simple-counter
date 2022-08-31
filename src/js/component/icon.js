@@ -1,0 +1,1 @@
+import FontAwesomeIcon from "https://fontawesome.com/"
